@@ -1,6 +1,6 @@
 # QiwiConsole 
 
-Для работы вам понадобятся библиотеки: pyqiwi, time, os
+Для работы вам понадобятся библиотеки: pyqiwi, time, os. А также python версии 3.9
 
 pip install pyqiwi
 pip install time
