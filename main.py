@@ -11,7 +11,7 @@ print('╱╱╱╰╯')
 
 
 print('Разработчик - AmyTea (Или Booter. Кому как удобно :) )')
-print('GitHub - https://github.com/Booteer')
+print('GitHub - https://github.com/AmyTea-code')
 print('Донатик - https://www.donationalerts.com/r/amytea')
 
 
